@@ -1,2 +1,2 @@
 # DonkeyPOOB
-Game (clone) inspired by Donkey Kong
+Game (clone) inspired by classic Donkey Kong
